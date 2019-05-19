@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/sasha/.platformio/penv/bin:/home/sasha/.platformio/penv:/usr/lib/jvm/java-8-openjdk-amd64//bin:/usr/lib/jvm/java-8-openjdk-amd64//bin:/home/sasha/.local/bin:/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/bin:/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
